@@ -1,5 +1,5 @@
 
-# Project Title
+# Breast Cancer Prediction
 
 Breast Cancer Prediction system is used to predict breast cancer using Machine Learning model called Logistic Regression.
 
